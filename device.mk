@@ -46,9 +46,7 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     RemovePackages
 
-# Watch specific settings
-PRODUCT_PACKAGES += \
-    WatchSettings
+
 
 # Bluetooth
 PRODUCT_PACKAGES += \
